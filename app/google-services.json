@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "654577556937",
+    "firebase_url": "https://spacebound-vj017877.firebaseio.com",
+    "project_id": "spacebound-vj017877",
+    "storage_bucket": "spacebound-vj017877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654577556937:android:9f8771831dca9ebf58dc18",
+        "android_client_info": {
+          "package_name": "com.vj017877.SpaceBound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654577556937-makphvajc8hjk93jmcaup6se420lg063.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlDERAjXQjFMS4IK1LWfUT5Zkta6UbjuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654577556937-makphvajc8hjk93jmcaup6se420lg063.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
