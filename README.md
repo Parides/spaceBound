@@ -7,6 +7,8 @@
 ## 📰 Description
 SpaceBound is a game set in space, where the player is traveling through space in a rocket, trying to destroy meteorites that are traveling towards the earth. The purpose of the game is to use the rockets lazer beams to destroy any incoming rocks, without letting any pass through. The more rocks are destroyed the higher the score. The game includes various features like different level difficulties, animations, custom level creation, tutorial page, music, high score leader boards and many more.
 
+## ▶ Demo
+
 <div align="center">
 
 
